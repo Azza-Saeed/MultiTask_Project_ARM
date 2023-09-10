@@ -1,0 +1,6 @@
+App.c:20:11:App_Init	16	static
+App.c:33:11:App_Main	16	static
+App.c:38:11:Traffic_task	16	static
+App.c:49:11:Green_Led	16	static
+App.c:54:11:Red_Led	16	static
+App.c:59:11:Yellow_Led	16	static
